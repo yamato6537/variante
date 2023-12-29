@@ -35,7 +35,7 @@
 //! // This fails because there is no variant named "Hoge" on "Enum"
 //! let hoge = variant!(Hoge @ Enum);
 //!
-//! // This fails because their is no struct named "NonExistent"
+//! // This fails because their is no enum named "NonExistent"
 //! let foo = variant!(Foo @ NonExistent);
 //! ```
 //!
