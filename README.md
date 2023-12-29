@@ -11,7 +11,7 @@ See the [documentation](https://docs.rs/variante/) for more details.
 Add the following to your Cargo manifest (`Cargo.toml` file):
 ```toml
 [dependencies]
-variante = "0.1.0"
+variante = "0.2.0"
 ```
 
 Or, just run `cargo add variante`.
