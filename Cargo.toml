@@ -1,7 +1,7 @@
 [package]
 name = "variante"
 description = "Statically-verified enum variant names as strings."
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["yamato6537"]
 repository = "https://github.com/yamato6537/variante"
