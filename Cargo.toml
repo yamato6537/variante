@@ -1,0 +1,12 @@
+[package]
+name = "variante"
+description = "Statically-verified enum variant names as strings."
+version = "0.1.0"
+edition = "2021"
+authors = ["yamato6537"]
+repository = "https://github.com/yamato6537/variante"
+documentation = "https://docs.rs/variante"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+keywords = ["macro", "variant", "enum", "name"]
+categories = ["no-std", "rust-patterns"]
